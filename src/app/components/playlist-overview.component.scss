@@ -1,0 +1,17 @@
+.sidenav-title {
+  margin-top: 16px;
+  padding: 0px 16px;
+}
+
+.playlist {
+  &-create,
+  &-name {
+    margin-right: auto;
+  }
+
+  &-name {
+    font-family: var(--btn-font-family);
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+}

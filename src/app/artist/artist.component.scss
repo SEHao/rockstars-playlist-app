@@ -1,0 +1,18 @@
+.scroll-viewport {
+  height: 500px;
+  border-bottom: 2px;
+}
+
+.artist-form {
+  width: 100%;
+
+  mat-label {
+    color: var(--black);
+  }
+}
+
+.name-option {
+  width: 100%;
+  text-decoration: none;
+  color: var(--black);
+}

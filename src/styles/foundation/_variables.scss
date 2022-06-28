@@ -1,0 +1,17 @@
+$font-family-regular: "din-2014-regular";
+$font-family-bold: "din-2014-bold";
+$font-family-demi-bold: "din-2014-demi-bold";
+
+:root {
+  --h1-font-family: #{$font-family-bold};
+  --h2-font-family: #{$font-family-demi-bold};
+  --h3-font-family: #{$font-family-demi-bold};
+  --h4-font-family: #{$font-family-demi-bold};
+  --h5-font-family: #{$font-family-demi-bold};
+  --body-font-family: #{$font-family-regular};
+  --btn-font-family: #{$font-family-bold};
+  --black: #000000;
+  --dark-gray: #232323;
+  --white: #ffffff;
+  --rockstar-yellow: #ffe000;
+}

@@ -1,0 +1,7 @@
+@url = http://localhost:3000/artists
+
+GET {{url}}
+  ?_page=0
+  &_limit=10
+  &name=311
+Content-Type: application/json

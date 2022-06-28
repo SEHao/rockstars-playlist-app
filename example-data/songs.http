@@ -1,0 +1,7 @@
+@url = http://localhost:3000/songs
+
+GET {{url}}
+  ?_page=10
+  &_limit=10
+  &id=2487
+Content-Type: application/json
